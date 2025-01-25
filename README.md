@@ -1,4 +1,4 @@
-# Clustering
+# Clustering Analysis
 
 ## Table of Contents
   - [Objective](#objective)
